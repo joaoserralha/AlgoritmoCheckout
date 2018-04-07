@@ -1,7 +1,0 @@
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\bin\Debug\AStarImproved.exe.config
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\bin\Debug\AStarImproved.exe
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\bin\Debug\AStarImproved.pdb
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\obj\Debug\AStarImproved.csprojResolveAssemblyReference.cache
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\obj\Debug\AStarImproved.csproj.CoreCompileInputs.cache
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\obj\Debug\AStarImproved.exe
-C:\Users\nelso\source\repos\AStarImproved\AStarImproved\obj\Debug\AStarImproved.pdb
